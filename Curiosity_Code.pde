@@ -1,1 +1,21 @@
 // add your curiosity code here
+size(400, 400);
+noFill();
+strokeWeight(.4);
+ellipse(200, 200, 300, 300);
+ellipse(253, 253, 150, 150);
+ellipse(253, 147, 150, 150);
+ellipse(147, 253, 150, 150);
+ellipse(147, 147, 150, 150);
+ellipse(275, 200, 150, 150);
+ellipse(200, 275, 150, 150);
+ellipse(125, 200, 150, 150);
+ellipse(200, 125, 150, 150);
+ellipse(230, 270, 150, 150);
+ellipse(270, 230, 150, 150);
+ellipse(170, 270, 150, 150);
+ellipse(270, 170, 150, 150);
+ellipse(130, 225, 150, 150);
+ellipse(225, 130, 150, 150);
+ellipse(175, 130, 150, 150);
+ellipse(130, 170, 150, 150);
